@@ -1,6 +1,6 @@
 # Site Apeperia feita com Sass
 
-Ferramentas básicas de como usar o Sass
+Introdução de infraestrutura do Sass
 
 ## Licença
 
